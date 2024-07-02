@@ -1,4 +1,4 @@
-- 👋 Hello, I'am Ye Ko Ko Oo. 
+- 👋 Hello, I'm a passionate full-stack developer with over 8 years of experience leading both frontend and backend development using technologies such as Node.js, React, Next.js,   Vue.js, PHP and Laravel framework.
 - 🌱 I’m currently learning Go and AWS.
 - 💻 I'm currently working with Node.js, React.js, Next.js, Vue.js, PHP and Laravel.
 - 📫 How to reach me: dev.yekoko@gmail.com
