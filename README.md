@@ -4,3 +4,6 @@
 - 📫 How to reach me: dev.yekoko@gmail.com.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=yekoko&theme=react&hide_border=true)](https://git.io/streak-stats)
+
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=yekoko&theme=react&layout=compact&count_private=true&show_icons=true&hide_border=true"/>
