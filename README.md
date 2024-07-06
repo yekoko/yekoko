@@ -2,3 +2,5 @@
 - 💻 I'm currently working with Node.js, React.js, Next.js, Vue.js, PHP and Laravel.
 - 🌱 I’m currently learning Go and AWS.
 - 📫 How to reach me: dev.yekoko@gmail.com.
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=yekoko&theme=react&hide_border=true)](https://git.io/streak-stats)
