@@ -1,5 +1,5 @@
 - 👋 Hello, I'm a passionate full-stack developer with over 8 years of experience leading both frontend and backend development using technologies such as Node.js, React, Next.js, Vue.js, PHP, and Laravel framework.
-- 💻 I'm currently working with Node.js, Express.js, React.js, Next.js, Vue.js, Nuxt.js, PHP and Laravel.
+- 💻 I'm currently working with React.js, Next.js, Vue.js, Nuxt.js, Node.js, Express.js, PHP and Laravel.
 - 🌱 I’m currently learning Go, Python and AWS.
 - 📫 How to reach me: dev.yekoko@gmail.com.
 
