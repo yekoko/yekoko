@@ -2,7 +2,7 @@
 
 <h3> 💻 About Me </h3>
 
-- 👋 Hello, I'm a passionate full-stack developer with over 9 years of experience leading both frontend and backend development using technologies such as Node.js, React, Next.js, Vue.js, PHP, and Laravel framework.
+- 👋 Full-Stack Developer with 9+ years of experience, including 5+ years working as a Senior Full-Stack Developer with a strong backend focus (PHP, Laravel), and currently working as a Senior Frontend Developer since 2022. 
 
 - 💻 I'm working with React.js, Next.js, Vue.js, Nuxt.js, Node.js, Express.js, PHP, and Laravel.
 
